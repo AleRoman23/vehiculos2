@@ -4,6 +4,8 @@ package vehiculo;
 /**
  *
  * @author 
+ * @since 28-04-2024
+ * @version 1.0
  */
 public class Main {
     
@@ -16,7 +18,11 @@ public class Main {
         stockActual = miVehiculoXXX2223.obtenerStock();
         System.out.println("El stock actual es "+ stockActual );
     }
-
+/**
+ * 
+ * @param miVehiculoXXX2223
+ * @param cantidad 
+ */
     static void operativaVehiculos2324(VehiculoARG2324 miVehiculoXXX2223, Integer cantidad) {
         try
         {
