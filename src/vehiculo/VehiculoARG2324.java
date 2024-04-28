@@ -62,7 +62,8 @@ public class VehiculoARG2324 {
     {
         return getNombre();
     }
-
+    
+    
     /**
      * Método que me devuelve el stock de vehiculos disponible en cada momento
      * @return devuelve el stock
